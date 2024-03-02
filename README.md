@@ -1,9 +1,4 @@
-### Ola! Eu sou o Vinicios Ferreira 👋
-
-<!--
-**ViniciosFerreira/ViniciosFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Ola! Eu sou o Vinicios Ferreira 👋
 
 - 🔭 I’m currently working on: Data Analysis 
 - 🌱 I’m currently learning: Computer Science, Data Analysis, Python and Java
