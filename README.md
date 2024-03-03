@@ -1,10 +1,11 @@
 ## Ola! Eu sou o Vinicios Ferreira 👋
 
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ViniciosFerreira&show_icons=true&theme=dark">
-
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/
-  username=anuraghazra&size_weight=0.5&count_weight=0.5">
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <div style="display: inline_block"><br>
