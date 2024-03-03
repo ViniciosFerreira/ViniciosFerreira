@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciosFerreira&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/ViniciosFerreira/Teste">
-  <img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciosFerreira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height="20" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciosFerreira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
 
