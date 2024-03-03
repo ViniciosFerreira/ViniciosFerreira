@@ -1,5 +1,5 @@
 # Ola! Eu sou o Vinicios 👋
-Este perfil é um portifolio de todos os projetos que tenho desenvolvidos durante minha caminhada dentro do universo da programação.
+Este perfil é um portifolio de todos os projetos que tenho desenvolvidos durante minha caminhada dentro do universo da programação, tendo como principal objetivo espor minhas habilidades dentro do ramo da Automação e da Ciência de Dados.
 
 
 <a href="https://github.com/ViniciosFerreira/Teste">
