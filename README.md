@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Vinicios Ferreira 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciosFerreira&show_icons=true&theme=dark)
 
 
 
