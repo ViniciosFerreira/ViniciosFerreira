@@ -1,5 +1,5 @@
 # Ola! Eu sou o Vinicios 👋
-Este perfil é um portifolio de todos os projetos que tenho desenvolvidos durante minha caminhada dentro do universo da programação, tendo como principal objetivo espor minhas habilidades dentro do ramo da Automação e da Ciência de Dados.
+Este perfil é um portifólio de todos os projetos que tenho desenvolvidos durante minha caminhada dentro do universo da programação, tendo como principal objetivo expor minhas habilidades dentro dos ramos da Automação e Ciência de Dados.
 
 
 <a href="https://github.com/ViniciosFerreira/Teste">
@@ -29,5 +29,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-o
   <a href="https://instagram.com/divinitatem._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciosferreira384@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciosalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
