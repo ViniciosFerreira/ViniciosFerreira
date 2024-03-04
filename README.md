@@ -11,14 +11,15 @@ Este perfil é um portifólio de todos os projetos que tenho desenvolvidos duran
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" 
+  <img align="center" alt="Rafa-Python" height="50" width="60" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-C" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" 
+  <img align="center" alt="Rafa-Java" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-SQL" height="30" width="40" 
+  <img align="center" alt="Rafa-SQL" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-Arduino" height="30" width="40" 
+  <img align="center" alt="Rafa-Arduino" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
 </div>
   
